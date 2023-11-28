@@ -18,7 +18,7 @@ To use this implementation, follow these steps:
 2. **Compile the Code:**
 
     ``` bash
-    gcc main.c -o aes
+    gcc saes_1900022.c -o saes_1900022
     ```
 3. **Run the Program:**
 
